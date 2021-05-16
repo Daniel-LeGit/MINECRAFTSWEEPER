@@ -3,8 +3,8 @@ import LoadScene from './loadscene.js'
 
 const config = {
     
-    width: 725, 
-    height: 640,
+    width: 768, 
+    height: 1024,
     type: Phaser.AUTO,
     parent: 'GameStop',
     backgroundColor:'#000000', 
